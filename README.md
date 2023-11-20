@@ -14,3 +14,5 @@
 1. Ejecuta el script y sigue las instrucciones para seleccionar la dificultad.
 2. Introduce tu suposición y sigue las pistas para acercarte al número correcto.
 3. Decide si quieres volver a jugar al finalizar cada partida.
+
+Link al repositorio: https://github.com/AlvaroSantamariaAnton/Santamaria_Alvaro_Juego_Adivinanza_Numeros_Terminado
